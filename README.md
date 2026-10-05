@@ -1,5 +1,7 @@
 # ansi-styling-library
 
+![demo.png](docs/demo.png)
+
 A zero-dependency Java library for styling terminal text with colors and attributes through a fluent API.
 
 ```java
