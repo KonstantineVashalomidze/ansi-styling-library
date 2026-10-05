@@ -1,10 +1,9 @@
 package com.github.konstantinevashalomidze;
 
-import com.github.konstantinevashalomidze.ansi.Ansi;
-import com.github.konstantinevashalomidze.ansi.Style;
+import static com.github.konstantinevashalomidze.ansi.Box.draw;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(Ansi.foreground(Style.Color.RED).foreground(Style.Color.RED).apply("text"));
+        System.out.println(draw(1, "Hi", "Hello World"));
     }
 }
