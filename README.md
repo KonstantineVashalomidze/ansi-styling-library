@@ -17,7 +17,8 @@ Ansi.foreground(Style.Color.RED).bold().apply("Error");
 ## Installation
 
 Installation via JitPack:
-https://jitpack.io/#KonstantineVashalomidze/ansi-styling-library
+
+[![](https://jitpack.io/v/KonstantineVashalomidze/ansi-styling-library.svg)](https://jitpack.io/#KonstantineVashalomidze/ansi-styling-library)
 
 ## Quickstart
 
