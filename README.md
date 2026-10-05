@@ -16,24 +16,8 @@ Ansi.foreground(Style.Color.RED).bold().apply("Error");
 
 ## Installation
 
-Add the **JitPack** repository and the following dependency to your `pom.xml`:
-
-```xml
-<repositories>
-    <repository>
-        <id>jitpack.io</id>
-        <url>https://jitpack.io</url>
-    </repository>
-</repositories>
-
-<dependencies>
-    <dependency>
-        <groupId>com.github.KonstantineVashalomidze</groupId>
-        <artifactId>ansi-styling-library</artifactId>
-        <version>1.0.0</version>
-    </dependency>
-</dependencies>
-```
+Installation via JitPack:
+https://jitpack.io/#KonstantineVashalomidze/ansi-styling-library
 
 ## Quickstart
 
